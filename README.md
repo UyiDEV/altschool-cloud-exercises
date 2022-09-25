@@ -1,2 +1,2 @@
-# altschool-cloud
-This repository is for all assignments given over the duration of AltSchool Cloud Engineering program.
+# ALTSCHOOL AFRICA
+This repository is for all exercises given during the AltSchool Cloud Engineering program.
